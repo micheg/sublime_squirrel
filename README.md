@@ -17,8 +17,8 @@ There are 2 ways to install it.
 
 Go to your Sublime Text 2 Packages directory:
 
-OS X: ~/Library/Application Support/Sublime Text 2/Packages
-Linux: ~/.Sublime Text 2/Packages/
+OS X: ~/Library/Application Support/Sublime Text 2/Packages  
+Linux: ~/.Sublime Text 2/Packages/  
 and clone the repository using the command below:
 
         git clone https://github.com/micheg/sublime_squirrel.git Squirrel
