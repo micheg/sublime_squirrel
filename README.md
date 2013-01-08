@@ -15,15 +15,19 @@ There are 2 ways to install it.
 
 * Git Clone
 
-Go to your Sublime Text 2 Packages directory:
+Go to your Sublime Text 2 Packages directory and clone the repository using the commands below:
 
-OS X: ~/Library/Application Support/Sublime Text 2/Packages  
-Linux: ~/.Sublime Text 2/Packages/  
-and clone the repository using the command below:
+on OS X:
 
+        cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+        git clone https://github.com/micheg/sublime_squirrel.git Squirrel
+
+on Linux:
+
+        cd ~/.Sublime\ Text\ 2/Packages/  
         git clone https://github.com/micheg/sublime_squirrel.git Squirrel
 
 * File Download
 
-Head to the downloads section and unzipping the downloaded file into the Sublime Text 2 Packages directory, then rename it Squirrel
+Head to the downloads section and unzipping the downloaded file into the Sublime Text 2 Packages directory, then rename it Squirrel.
 
