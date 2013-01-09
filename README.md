@@ -22,9 +22,9 @@ on OS X:
         cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
         git clone https://github.com/micheg/sublime_squirrel.git Squirrel
 
-on Linux:
+on Ubuntu (others linux distro?):
 
-        cd ~/.Sublime\ Text\ 2/Packages/  
+        cd ~/.config/sublime-text-2/Packages
         git clone https://github.com/micheg/sublime_squirrel.git Squirrel
 
 * File Download
